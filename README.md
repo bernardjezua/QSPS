@@ -1,2 +1,4 @@
-# cmsc150project
-cmsc 150 project with incomplete simplex functionality
+# QSI and Polynomial Regression Solver
+A simple R project with incomplete simplex functionality.
+
+## How to use:
