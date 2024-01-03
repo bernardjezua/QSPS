@@ -1,6 +1,6 @@
-# TANDANG, Bernard Jezua R.
-# 2021-09992
-# CMSC 150 - B1L
+# Developed by:
+# https://github.com/rebberchicken
+# DO NOT REPOST OR USE FOR YOUR ACADEMICS.
 
 # This program implements the Gaussian Elimination from the previous exercise.
 GaussianMethod <- function(augmentedMatrix) {
