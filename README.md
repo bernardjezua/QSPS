@@ -1,7 +1,7 @@
 # CMSC 150 Final Project: R UI Application
 
 ## Introduction
-This R project, developed by **RebberChicken** for CMSC 150, consists of a Shiny web application that serves as the UI code for the final project. The application includes functionalities for Quadratic Spline Interpolation (QSI), Polynomial Regression (PR), and the Simplex Method (incomplete functionality) for solving a diet problem.
+This R project, developed by **RebberChicken**, consists of a Shiny web application that serves as the UI code for the final project. The application includes functionalities for Quadratic Spline Interpolation (QSI), Polynomial Regression (PR), and the Simplex Method (incomplete functionality) for solving a diet problem.
 
 ## How to Use
 To run the application, follow these steps:
