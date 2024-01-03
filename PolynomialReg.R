@@ -1,6 +1,6 @@
-# TANDANG, Bernard Jezua R.
-# 2021-09992
-# CMSC 150 - B1L
+# Developed by:
+# https://github.com/rebberchicken
+# DO NOT REPOST OR USE FOR YOUR ACADEMICS.
 
 # This program implements the Polynomial Regression from Exercise 6.
 # Gauss-Jordan Elimination (for extracting coefficients)
