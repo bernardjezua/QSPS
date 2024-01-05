@@ -14,6 +14,6 @@ To run the application, follow these steps:
    install.packages(c("readr", "shiny", "shinyjs", "shinyMatrix", "shinythemes"))
 
 ## References
-freeCodeCamp.org. (2021). R Shiny for Data Science Tutorial – Build Interactive Data-Driven Web Apps [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=9uFQECk30kA
-R4DS Online Learning Community. (2023). ShinyUI: JavaScript for Shiny (shinyui01 10) [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=5_IVbyf2x00
-Statistical Learning Group. (2020). R Shiny Basics and User Interface [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=6mJaw5pLtso
+- freeCodeCamp.org. (2021). R Shiny for Data Science Tutorial – Build Interactive Data-Driven Web Apps [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=9uFQECk30kA
+- R4DS Online Learning Community. (2023). ShinyUI: JavaScript for Shiny (shinyui01 10) [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=5_IVbyf2x00
+- Statistical Learning Group. (2020). R Shiny Basics and User Interface [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=6mJaw5pLtso
