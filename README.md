@@ -17,3 +17,7 @@ To run the application, follow these steps:
 - freeCodeCamp.org. (2021). R Shiny for Data Science Tutorial – Build Interactive Data-Driven Web Apps [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=9uFQECk30kA
 - R4DS Online Learning Community. (2023). ShinyUI: JavaScript for Shiny (shinyui01 10) [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=5_IVbyf2x00
 - Statistical Learning Group. (2020). R Shiny Basics and User Interface [YouTube Video]. In YouTube. https://www.youtube.com/watch?v=6mJaw5pLtso
+
+## Screenshots
+![image](https://github.com/bernardjezua/QSPS/assets/90602869/928801d4-dbe6-4882-a88a-3c5dca8828f5)
+![image](https://github.com/bernardjezua/QSPS/assets/90602869/ec82c946-09ed-43e9-8a8c-95d8c3135272)
